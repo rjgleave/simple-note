@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-simplenote-dev-221124-authRole",
+            "UnauthRoleArn": "arn:aws:iam::660741201604:role/amplify-simplenote-dev-221124-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::660741201604:role/amplify-simplenote-dev-221124-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-simplenote-dev-221124-deployment",
+            "UnauthRoleName": "amplify-simplenote-dev-221124-unauthRole",
+            "StackName": "amplify-simplenote-dev-221124",
+            "StackId": "arn:aws:cloudformation:us-east-1:660741201604:stack/amplify-simplenote-dev-221124/8b65dbc0-9bd1-11ea-b1c5-120fbf0f0187",
+            "AmplifyAppId": "d1a05xao5nm5b9"
+        },
+        "categories": {
+            "auth": {
+                "simplenotee36a2ce0": {}
+            }
+        }
+    }
+}
